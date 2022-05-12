@@ -14,6 +14,14 @@
 </div>
 <br><br>
 
+
+## Repositórios em destaque
+
+- [DsMovie](https://github.com/lucasfroque/dsmovie): Site para avaliações de filmes com frontend utilizando ReactJS e backend utilizando Java e Springboot.
+- [Bankline](https://github.com/lucasfroque/bankline): Sistema de ciação de extratos bancários utilizando Angular para o frontend e Java e Springboot para o backend
+- [WorkshopAPI](https://github.com/lucasfroque/WorkShopAPI): APIRest para ecommerce desenvolvida utilizando Java e Springboot
+
+
 ## Contatos:
 
 <div>
